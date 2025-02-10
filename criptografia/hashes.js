@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
 
-// Diretório onde estão os arquivos HTML
+// Substitua pelos seus diretórios onde estão os seus arquivos HTML
 const adestramentoDir = path.join(__dirname, 'adestramento');
 const banhoetosaDir = path.join(__dirname, 'banho e tosa');
 const cagoriasDir = path.join(__dirname, 'cagorias');
